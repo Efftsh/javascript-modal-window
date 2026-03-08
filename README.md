@@ -1,6 +1,4 @@
 <h2>📌 Javascript modal window</h2>
-
-A simple modal window project built with HTML, CSS, and JavaScript.
 This project demonstrates how to create an interactive modal that can be opened by multiple buttons and closed using different user interactions such as clicking the close button, clicking outside the modal, or pressing the Escape key.
 
 <h2> 🛠 Technologies</h2>
